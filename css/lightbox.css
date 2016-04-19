@@ -1,6 +1,6 @@
 /* Preload images */
 body:after {
-  content: url(https://cloud.githubusercontent.com/assets/7917600/10738872/aadaf406-7bd6-11e5-8de8-80ff31d59e32.png) url(../img/loading.gif) url(../img/prev.png) url(https://cloud.githubusercontent.com/assets/7917600/10738874/aaf03faa-7bd6-11e5-984d-f133c4da79d0.png);
+  content: url(https://cloud.githubusercontent.com/assets/7917600/10738872/aadaf406-7bd6-11e5-8de8-80ff31d59e32.png) url(https://cloud.githubusercontent.com/assets/7917600/10738873/aade0ff6-7bd6-11e5-9ccb-57df2825d4cd.gif) url(../img/prev.png) url(https://cloud.githubusercontent.com/assets/7917600/10738874/aaf03faa-7bd6-11e5-984d-f133c4da79d0.png);
   display: none;
 }
 
@@ -79,7 +79,7 @@ body:after {
   width: 32px;
   height: 32px;
   margin: 0 auto;
-  background: url(../img/loading.gif) no-repeat;
+  background: url(https://cloud.githubusercontent.com/assets/7917600/10738873/aade0ff6-7bd6-11e5-9ccb-57df2825d4cd.gif) no-repeat;
 }
 
 .lb-nav {
@@ -97,7 +97,7 @@ body:after {
 
 .lb-nav a {
   outline: none;
-  background-image: url('data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==');
+  background-image: url(https://cloud.githubusercontent.com/assets/7917600/10738873/aade0ff6-7bd6-11e5-9ccb-57df2825d4cd.gif;base64,R0lGODlhAQABAPAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==');
 }
 
 .lb-prev, .lb-next {
@@ -110,7 +110,7 @@ body:after {
   width: 34%;
   left: 0;
   float: left;
-  background: url(../img/prev.png) left 48% no-repeat;
+  background: url(https://cloud.githubusercontent.com/assets/7917600/10738875/aaf312e8-7bd6-11e5-819d-1c5457fc5699.png) left 48% no-repeat;
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
   opacity: 0;
   -webkit-transition: opacity 0.6s;
