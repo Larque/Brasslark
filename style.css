@@ -713,8 +713,8 @@ img.ri:empty {
 	position:relative;
   	top: .25em;
   	left: -1em;
-    vertical-align:bottom;
-    font-family: Arial Black, Gadget, sans-serif;
+    	vertical-align:bottom;
+    	font-family: Arial Black, Gadget, sans-serif;
 	
 }
 .style8 {
@@ -1048,7 +1048,7 @@ Text: "Brasslark"
 #intro {
 	text-align: center;
 	color: #fd0090;
-	font-size: 8.5em;
+	font-size: 5.5em;
 	margin-top: -.3em;
 	box-shadow: 0 5em 15em rgba(0,0,0.2,0.1);
 	border-radius: .5em;
