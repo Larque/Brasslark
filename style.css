@@ -1319,6 +1319,7 @@ td {
 	bottom: -43em;
 	top: 2em;
 	Left: 50%;
+	padding-bottom: 1em;
 	-webkit-transform: translate(-50%, 0%);	
 	-moz-transform: translate(-50%, 0%);
 	-ms-transform: translate(-50%, 0%);
