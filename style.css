@@ -1317,6 +1317,7 @@ td {
 	position: absolute;
 	background-color: #afffff;
 	bottom: -43em;
+	top: 2em;
 	Left: 50%;
 	-webkit-transform: translate(-50%, 0%);	
 	-moz-transform: translate(-50%, 0%);
