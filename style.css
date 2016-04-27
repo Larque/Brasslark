@@ -3,7 +3,7 @@ a { color: inherit; }
 html { overflow-x: hidden; }
 
 body {
-  	background-color: #3a3a3a;
+  	ackground-color: #3a3a3a;
 	background-position: top center;
 	background-attachment: absolute;
 	height: 100%;
@@ -43,7 +43,7 @@ body {
 	-ms-transform: translate(-50%, 0%);
 	-o-transform: translate(-50%, 0%);
 	transform: translate(-50%, 0%);	
-
+	background-color: green;
 
 }
 
