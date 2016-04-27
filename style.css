@@ -43,7 +43,7 @@ body {
 	-ms-transform: translate(-50%, 0%);
 	-o-transform: translate(-50%, 0%);
 	transform: translate(-50%, 0%);	
-	background-color: green;
+	background-color: #000;
 
 }
 
@@ -1317,7 +1317,7 @@ td {
 	position: absolute;
 	background-color: #afffff;
 	ottom: -43em;
-	top: 150em;
+	top: 170em;
 	Left: 50%;
 
 	-webkit-transform: translate(-50%, 0%);	
