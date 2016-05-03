@@ -582,8 +582,8 @@ dia only screen
 	border: 1em solid #ffffff; /* #ff425a */
 	position: absolute;
 	z-index: -10;
-	min-height: 10em;
-	max-height: 10em;
+	min-height: 14em;
+	max-height: 14em;
 	min-width: 15em;
 	max-width: 100em;
 	color: #fff;
