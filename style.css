@@ -584,7 +584,7 @@ dia only screen
 	z-index: -10;
 	min-height: 14em;
 	max-height: 14em;
-	min-width: 15em;
+	min-width: 25em;
 	max-width: 100em;
 	color: #fff;
 	
@@ -1048,7 +1048,7 @@ Text: "Brasslark"
 #intro {
 	text-align: center;
 	color: #fd0090;
-	font-size: 2em;
+	font-size: 4em;
 	margin-top: -.5em;
 	box-shadow: 0 5em 15em rgba(0,0,0.2,0.1);
 	border-radius: .5em;
