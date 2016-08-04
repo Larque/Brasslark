@@ -556,7 +556,7 @@ dia only screen
 .back {
 	background: url(https://cloud.githubusercontent.com/assets/7917600/12638433/e906afb2-c551-11e5-87bf-e74ebb6cace5.png) no-repeat 0 0;
  	background-position: top center;
- 	opacity: 0.3; 
+ 	pacity: 0.3; 
 	filter: alpha(opacity=40); /* For IE8 and earlier */
 	border: .25em solid #ff4f5f;/* #ff425a */
 	border-right: 0px;
