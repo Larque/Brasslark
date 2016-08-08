@@ -576,7 +576,7 @@ dia only screen
     		"welcome message" 
 ---------------------------------------*/
 .back2 {
- 	background-color: white;
+ 	background: url(https://cloud.githubusercontent.com/assets/7917600/17495945/ecabe946-5d6f-11e6-9eb4-49dc1be34184.jpg) no-repeat
  	pacity: .8;
     	filter: alpha(opacity=40); /* For IE8 and earlier */
 	border: 1em solid #ffffff; /* #ff425a */
