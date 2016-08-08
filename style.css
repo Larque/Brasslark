@@ -1129,6 +1129,7 @@ Text: "CONTACT"
 	font-size: 1em;
 	top: 168.5em;
 	border-radius: .5em;
+	
  	font-family: Arial Black, Gadget, sans-serif;
 	left: 50%;
 	-webkit-transform: translate(-50%, 0%);	
@@ -1145,7 +1146,7 @@ Text: "CONTACT"
 	color: #fd0090;
 	font-size: 1em;
 	margin-top: 2em;
-	border-radius: .5em;
+	border-radius: 0em;
  	font-family: Arial Black, Gadget, sans-serif;
 	left: 50%;
 	-webkit-transform: translate(-50%, 0%);	
